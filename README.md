@@ -17,12 +17,8 @@
 ###
 
 <div data-importer="socials" align="left">
-  <a href="mailto:chenggar7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge" height="40" alt="mail button"/>
-  </a>
-  <a href="https://www.linkedin.com/in/chenggar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-007ebb?style=for-the-badge" height="40" alt="linkedin button"/>
-  </a>
+  <a href="mailto:chenggar7@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-red?style=for-the-badge" height="40" alt="mail button"/></a>
+  <a href="https://www.linkedin.com/in/chenggar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-007ebb?style=for-the-badge" height="40" alt="linkedin button"/></a>
 </div>
 
 ###
